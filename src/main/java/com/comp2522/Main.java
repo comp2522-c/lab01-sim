@@ -1,4 +1,4 @@
-package comp2522;
+package com.comp2522;
 
 public class Main {
     public static void main(String[] args) {
